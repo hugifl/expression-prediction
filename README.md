@@ -15,4 +15,4 @@ X1 and X2 were used to train and validate the model and X3 was used to test the 
 
 ## How to use
 The whole project can be run from the 'expression_prediction.R' script.
-The bigWig files of the epigenetic tracks are not provided due to their size. The R workspace 'allfeaturesloaded.RData' contains the pre-loaded epigenetic features (7 bins, windowsize of 10'000) as well as the pre-loaded gene expression data (corresponding to the result of running all data-loading and -processing steps in 'expression_prediction.R' up to and including step 5 ( "5) Epigenetic feature extraction")).
+The bigWig files of the epigenetic tracks are not provided due to their size. The R workspace 'allfeaturesloaded.RData' contains the pre-loaded epigenetic features (7 bins, window size of 10'000) as well as the pre-loaded gene expression data (corresponding to the result of running all data-loading and -processing steps in 'expression_prediction.R' up to and including step "5) Epigenetic feature extraction").
