@@ -1,4 +1,4 @@
-# expression-prediction
+# Prediction of Gene Expression from Chromatin Landscape
 
 ## Project description
 The goal of this project was to predict gene expression from epigenetic features of the DNA, represented by multiple histone mark ChIP-seq datasets and one chromatin accessibility DNase-seq dataset.
