@@ -5,7 +5,7 @@ The goal of this project was to predict gene expression from epigenetic features
 
 ## Data
 
-The epigenetic data was provided as bigWig enrichment/read coverage files over the whole genome for three cell types X1/2/3.
+The epigenetic input data is structured as bigWig enrichment/read coverage files over the whole genome for three cell types X1/2/3.
 The gene expression data was provided as CPM-normalized CAGE-seq read counts from two cell types X1/2. 
 
 For all genes, information about the chromosome, the location of the gene and its transcription start site on the chromosome and the direction of the gene on the chromosome was provided.
